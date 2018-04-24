@@ -1,0 +1,30 @@
+{
+  "name": "hexo-render-sass",
+  "version": "1.0.0",
+  "description": "Sass render plugin for Hexo",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://paulwebb.software/NetOperatorWibby/hexo-render-sass.git"
+  },
+  "bugs": {
+    "url": "https://paulwebb.software/NetOperatorWibby/hexo-render-sass/issues"
+  },
+  "keywords": [
+    "hexo",
+    "sass",
+    "scss",
+    "stylesheet",
+    "css",
+    "style",
+    "render"
+  ],
+  "author": "Paul Anthony Webb <netopwibby@thenetwork.email> (https://pw-software.com)",
+  "license": {
+    "type": "MIT",
+    "url": "https://paulwebb.software/NetOperatorWibby/hexo-render-sass/master/LICENSE"
+  },
+  "dependencies": {
+    "node-sass": "^4.1.1"
+  }
+}
