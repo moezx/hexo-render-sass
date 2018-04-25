@@ -1,9 +1,1 @@
-# OS garbage
 .DS_Store
-Thumbs.db
-
-
-
-# Folders
-.sass-cache
-node_modules/

@@ -1,30 +1,22 @@
 {
   "name": "hexo-render-sass",
-  "version": "1.0.0",
-  "description": "Sass render plugin for Hexo",
-  "main": "index",
-  "repository": {
-    "type": "git",
-    "url": "https://paulwebb.software/NetOperatorWibby/hexo-render-sass.git"
-  },
-  "bugs": {
-    "url": "https://paulwebb.software/NetOperatorWibby/hexo-render-sass/issues"
-  },
+  "version": "1.0.1",
+  "description": "Enable Sass support in Hexo",
+  "license": "MIT",
+  "repository": "https://git.inc.sh/NetOperatorWibby/hexo-render-sass",
+  "author": "Paul Anthony Webb <paul@inc.sh>",
+  "main": "index.js",
   "keywords": [
+    "css",
     "hexo",
+    "render",
     "sass",
     "scss",
-    "stylesheet",
-    "css",
     "style",
-    "render"
+    "stylesheet"
   ],
-  "author": "Paul Anthony Webb <netopwibby@thenetwork.email> (https://pw-software.com)",
-  "license": {
-    "type": "MIT",
-    "url": "https://paulwebb.software/NetOperatorWibby/hexo-render-sass/master/LICENSE"
-  },
   "dependencies": {
-    "node-sass": "^4.1.1"
+    "graceful-fs": "^4.1.11",
+    "node-sass": "^4.8.3"
   }
 }
