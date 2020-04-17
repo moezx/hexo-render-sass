@@ -1,27 +1,19 @@
 # hexo-render-sass
 
-[![N](https://img.shields.io/badge/%F0%9F%91%8D%F0%9F%8F%BE-NetOperatorWibby/hexo--render--sass-07d0eb.svg?style=flat-square)](https://git.inc.sh/NetOperatorWibby/hexo-render-sass)
-
 > Enable Sass support in [Hexo](https://hexo.io)
 
-Sass files are automatically compressed, just plug and go.
 
 
+## Install
 
-### Install
-
-```bash
-$ npm i hexo-render-sass -S
+```sh
+$ npm i hexo-render-sass
 ```
 
 
 
-### Requirements
+## Notes
 
-- Hexo 3: >= 2.2
+I have not used Hexo in many years so I have no idea if this module works anymore. I merely updated the code to use TypeScript and did some housekeeping.
 
-
-
-### License
-
-MIT © [Paul Anthony Webb](https://pw-software.com)
+Good luck.
