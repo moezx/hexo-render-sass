@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "graceful-fs": "^4.1.11",
-    "node-sass": "^4.13.1"
+    "sass": "^1.44.0"
   },
   "description": "Enable Sass support in Hexo",
   "devDependencies": {

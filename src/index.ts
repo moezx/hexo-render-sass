@@ -5,7 +5,7 @@ declare var hexo: any;
 //  I M P O R T S
 
 import fs from "graceful-fs";
-import sass from "node-sass";
+import sass from "sass";
 
 
 
