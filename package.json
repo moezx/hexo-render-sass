@@ -4,6 +4,7 @@
     "url": "https://webb.page"
   },
   "dependencies": {
+    "@types/sass": "^1.43.1",
     "graceful-fs": "^4.1.11",
     "sass": "^1.44.0"
   },
@@ -20,7 +21,7 @@
     "typescript": "^3.8.3",
     "updates": "^10.2.7"
   },
-  "homepage": "https://github.com/NetOperatorWibby/hexo-render-sass",
+  "homepage": "https://github.com/moezx/hexo-render-sass",
   "husky": {
     "hooks": {
       "pre-commit": "npm run build && npm run pretty && npm run increment && git add -A :/"
@@ -37,11 +38,11 @@
   ],
   "license": "MIT",
   "main": "dist/index.js",
-  "name": "hexo-render-sass",
+  "name": "hexo-render-dart-sass",
   "prettier": "@webb/config-prettier",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NetOperatorWibby/hexo-render-sass"
+    "url": "https://github.com/moezx/hexo-render-sass"
   },
   "scripts": {
     "build": "npm run cleanup && tsc",
